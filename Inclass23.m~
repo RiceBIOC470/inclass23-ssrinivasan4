@@ -37,6 +37,4 @@ hold on;
 % genes? 
 
 % when k2 is increased for one gene, that gene controls the entire network.
-% if the value of k2 is decreased for one gene, the other two genes would
-% control the network more, and the relative contribution of the gene with
-% the lower k2 to the system is decreased accordingly. 
+% if the value of k2 is decreased for one gene, 
